@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&random=false&width=600&lines=Multi languages+Programming;UNIX+%26+IA+%26+Cybersecurity;42+Madrid+student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&random=false&width=600&lines=Multi%20languages%20Programming;UNIX%20%26%20IA%20%26%20Cybersecurity;42%20Madrid%20student" alt="Typing SVG" />
 </h3>
 
 <!-- badges -->

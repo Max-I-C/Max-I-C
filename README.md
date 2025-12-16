@@ -84,7 +84,7 @@ if __name__ == "__main__":
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Max-I-C&layout=donut&theme=github_dark&hide_border=true"
          alt="Top Languages"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Max-I-C&theme=2077"
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Max-I-C&theme=github_dark"
          alt="Profile stats"/>
     
   </p>

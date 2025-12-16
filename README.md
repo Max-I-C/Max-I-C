@@ -82,7 +82,7 @@ if __name__ == "__main__":
 <p></p>
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Max-I-C&layout=compact&theme=github_dark&hide_border=true"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Max-I-C&layout=donut&theme=github_dark&hide_border=true"
          alt="Top Languages"/>
   </p>
 </div>

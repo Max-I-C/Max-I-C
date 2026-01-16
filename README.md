@@ -93,10 +93,10 @@ if __name__ == "__main__":
 
 <div align="center">
   <a href="https://github.com/Max-I-C/42-Cursus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Max-I-C&repo=42-Cursus&theme=github_dark&hide_border=true&border_radius=10&show_owner=true" width="49%"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Max-I-C&repo=42-Cursus&theme=github_dark&hide_border=true&border_radius=10&show_owner=true" width="49%"/>
   </a>
   <a href="https://github.com/Max-I-C/42-Outer-Core">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Max-I-C&repo=42-Outer-Core&theme=github_dark&hide_border=true&border_radius=10&show_owner=true" width="49%"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Max-I-C&repo=42-Outer-Core&theme=github_dark&hide_border=true&border_radius=10&show_owner=true" width="49%"/>
   </a>
 </div>
 

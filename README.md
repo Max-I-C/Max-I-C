@@ -82,7 +82,7 @@ if __name__ == "__main__":
 <p></p>
 <div align="center">
   <p>
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Max-I-C&layout=donut"
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Max-I-C&layout=donut&theme=github_dark"
          alt="Top Languages"/>
     <!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Max-I-C&theme=github_dark"
          alt="Profile stats"/> Uncomment to see profile stats-->
